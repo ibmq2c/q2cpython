@@ -9,8 +9,9 @@
 5. Create a new plain text file in the root folder of the forked project. And make the file name in the format of "your full name", e.g. **Mark Leon**.
 6. Notify the code assignment is done or you can contact your employer to notify the same (we would be regularly checking the repo for any checkins).
 
-## Database Details:
+## Database Details: MySql
 ```
+Database type : MySql
 host: sl-us-south-1-portal.42.dblayer.com
 port: 23371
 dbname: q2c
