@@ -10,10 +10,12 @@
 6. Notify the code assignment is done or you can contact your employer to notify the same (we would be regularly checking the repo for any checkins).
 
 ## Database Details:
+```
 host: sl-us-south-1-portal.42.dblayer.com
 port: 23371
 dbname: q2c
 Username : q2c
 password : passw0rd
+```
 
 ## Code assignment details
