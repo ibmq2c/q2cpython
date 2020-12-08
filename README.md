@@ -24,7 +24,7 @@ password : passw0rd
 * Create a python based application/file (e.g test.py)
 * Create a connection to the database details provided above.
 * Load the data and perform the following operation/result
-  * For column **term** add extra 12 months to all **id** with **term 36 month**  and **loan_status** is not equal to Fully Paid
+  * For column **term** add extra 12 months to all **id** with **term 36 month**  and **loan_status** is not equal to _Fully Paid_
   * For column **int_rate** increase the intrest by 2% and recalculate the **installament** to be continued.
 * Ouput the result to a csv file
 * Create a requirment.txt file with all dependencies used. 
