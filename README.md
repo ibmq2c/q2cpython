@@ -12,11 +12,19 @@
 ## Database Details: MySql
 ```
 Database type : MySql
-host: sl-us-south-1-portal.42.dblayer.com
-port: 23371
+host: sl-aus-syd-1-portal.5.dblayer.com
+port: 22243
 dbname: q2c
 Username : q2c
 password : passw0rd
 ```
 
 ## Code assignment details
+
+* Create a python based application/file (e.g test.py)
+* Create a connection to the database details provided above.
+* Load the data and perform the following operation/result
+  * For column **term** add extra 12 months to all **id** with **term 36 month**  and **loan_status** is not equal to Fully Paid
+  * For column **int_rate** increase the intrest by 2% and recalculate the **installament** to be continued.
+* Ouput the result to a csv file
+* Create a requirment.txt file with all dependencies used. 
